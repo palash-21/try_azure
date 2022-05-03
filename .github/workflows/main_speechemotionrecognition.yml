@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'SpeechEmotionRecognition'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C1E3B48E0316458D8260CCF14E7FF3CD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CA80D0D390EA4840B10223E6F33D47E9 }}
